@@ -118,7 +118,6 @@ def main(url: str, file_name:str):
     
     This program scrapes data from specific region from volby.cz and saves them into a CSV file.
 
-    
     \b
     <url>   The URL of the website in quotes.
     <output_file>  The path to the output CSV file
