@@ -15,7 +15,7 @@ Instalace do virtuálního prostředí:
 ```
 ## Spuštění programu
 Program přijímá 2 argumenty:
-1. odkaz na scrapovaný okres, například [tento](https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5303)
+1. odkaz na scrapovaný okres, například [tento](https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2109)
 2. název výsledného souboru, který uloží do adresáře, kde program je spuštěn
 ```
 python main.py <url_okresu> <název_souboru>
@@ -29,7 +29,7 @@ průběh programu
 ```
 INITIALIZING SCRAPER
 Downloading election results  [####################################]  100%
-Data successfully obtained.
+Data successfully obtained
 Exporting data to output.csv
 File output.csv successfully created
 ```
