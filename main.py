@@ -85,7 +85,7 @@ def get_cities_results(data: list) -> list:
                         if party_votes != "100,00":
                             city_data[party_name] = party_votes
             results.append(city_data)
-    click.secho("Data successfully obtained.", fg="green", bold=True)
+    click.secho("Data successfully obtained", fg="green", bold=True)
     return results
     
 def export_to_csv(results: list, output_filename: str):
