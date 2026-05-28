@@ -1,4 +1,4 @@
-# Třetí python projekt v Engeto academy
+# Engeto academy - Python projekt
 V tomto projektu se scrapují výsledky parlamentních voleb z roku [2017](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
 ## Popis
 Program automaticky stáhne a zpracuje data všech obcí v okrese zvoleným uživatelem a uloží je do souboru `.csv`
